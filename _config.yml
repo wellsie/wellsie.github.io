@@ -15,14 +15,14 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        onojw
   facebook:       
-  github:         
+  github:         wellsie
   stackexchange:  
-  linkedin:       
+  linkedin:       onojw
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:    +ojio7
 
 # Background image to be tiled on all pages
 background: 
@@ -46,7 +46,6 @@ links:
 timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
-#highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
