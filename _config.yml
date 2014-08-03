@@ -10,7 +10,7 @@ url:              http://localhost:4000
 owner:
   name:           jono wells
   avatar:         avatar.jpg
-  bio:            "if you can dream it i can build it; and if you can’t dream it i can do that part too"
+  bio:            "if you can dream it i can build it"
   email:          _@oj.io
   # Social networking links used in footer. Update and remove as you like.
   twitter:        onojw
@@ -22,25 +22,19 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    +ojio7
+  google_plus:    https://google.com/+ojio7
 
 # Background image to be tiled on all pages
 background: 
 
-# Analytics and webmaster tools stuff goes here
 google_analytics: UA-33905387-1  
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+#links:
+#  - title: External Link
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
