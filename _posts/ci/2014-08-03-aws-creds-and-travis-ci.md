@@ -16,7 +16,7 @@ share: true
 
 Travis CI allows you to store encrypted environment variables in your .travis.yml file. When Travis CI kicks off a build the environment variables in .travis.yml are decrypted and exported. If you need to encrypt something more substantial, like a PEM file for access AWS you can encrypt the file with a symmetric key and store the key in an encrypted.
 
-**tl;dr:** Check out this [gist](https://gist.github.com/wellsie/96427f843c7570f08923) for a shell script that wraps up these concepts.
+**tl;dr:** Check out [this gist](https://gist.github.com/wellsie/96427f843c7570f08923) for a shell script that wraps up these concepts.
 {: .notice}
 
 

@@ -4,9 +4,9 @@ permalink: /about/
 title: Jono Wells
 tags: []
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: San_Francisco_at_night,_pan.jpg
+  credit: Christian Abend
+  creditlink: http://commons.wikimedia.org/wiki/File:San_Francisco_at_night,_pan.jpg#file
 share: true
 reading_time: false
 ---
