@@ -5,9 +5,9 @@ description: "Encrypt your AWS secrets (including PEM file) for consumption by T
 modified: 2014-08-03 09:16:16 -0700
 tags: [aws,travis-ci,secrets]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: Manhattan_Bridge_Construction_1909.jpg
+  credit: Irving Underhill
+  creditlink: http://en.wikipedia.org/wiki/File:Manhattan_Bridge_Construction_1909.jpg#file
 comments: true
 share: true
 ---
