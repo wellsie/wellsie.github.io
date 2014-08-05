@@ -33,6 +33,9 @@ To determine drive mount point:
 $ df -lH | grep "Filesystem"; df -lH | grep "/Volumes/*"
 {% endhighlight %}
 
+**warning**: the last stage of the Yosemite install can take *a long time* to complete. I have seen this on several machines. Let it run - it does finish eventually.
+{: .notice}
+
 
 # References
 
