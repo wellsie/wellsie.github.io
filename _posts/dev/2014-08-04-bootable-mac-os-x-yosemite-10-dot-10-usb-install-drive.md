@@ -2,7 +2,7 @@
 layout: post
 title: "Bootable USB Drive - Mac OS X Yosemite 10.10"
 modified: 2014-08-04 19:24:58 -0700
-tags: [osx,yosemite,usb,install,10.10]
+tags: [osx,yosemite,usb,install,'10.10']
 image:
   feature: Sydney_Harbour_Bridge_-_View_from_Milsons_Point_(7653426404).jpg
   credit: Photographic Collection
