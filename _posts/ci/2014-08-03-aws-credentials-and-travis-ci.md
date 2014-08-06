@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AWS and Travis-CI
-description: "Encrypt your AWS secrets (including PEM file) for consumption by Travis-CI."
+title: AWS Credentials and Travis-CI
+description: Encrypt your AWS secrets (including PEM file) for use by Travis-CI.
 modified: 2014-08-03 09:16:16 -0700
 tags: [aws,travis-ci,secrets]
 image:
@@ -14,7 +14,7 @@ share: true
 
 # Summary
 
-Travis CI allows you to store encrypted environment variables in your .travis.yml file. When Travis CI kicks off a build the environment variables in .travis.yml are decrypted and exported. If you need to encrypt something more substantial, like a PEM file for access AWS you can encrypt the file with a symmetric key and store the key in an encrypted.
+Travis CI allows you to store encrypted environment variables in your .travis.yml file. When Travis CI kicks off a build the environment variables in .travis.yml are decrypted and exported. If you need to encrypt something more substantial, like a PEM file for accessing an AWS instance you can encrypt the file with a symmetric key and store the key in an encrypted.
 
 **tl;dr:** Check out [this gist](https://gist.github.com/wellsie/96427f843c7570f08923) for a shell script that wraps up these concepts.
 {: .notice}

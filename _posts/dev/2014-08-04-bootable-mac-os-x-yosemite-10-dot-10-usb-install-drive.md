@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Bootable USB Drive - Mac OS X Yosemite 10.10"
+title: Bootable USB Drive - Mac OS X Yosemite 10.10
+description: How to create a bootable Mac OS X Yosemite (10.10) boot install disk.
 modified: 2014-08-04 19:24:58 -0700
 tags: [osx,yosemite,usb,install,'10.10']
 image:
